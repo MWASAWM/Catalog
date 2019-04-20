@@ -12,7 +12,7 @@
 
 [IMOOC手机商城主页](https://github.com/MWASAWM/IMOOC_Mobile_Mall_Homepage)
 
-[课程:数据结构与算法实验小项目](https://github.com/MWASAWM/Experiment_of_Data_Structure)
+[课程:数据结构与算法实验项目](https://github.com/MWASAWM/Experiment_of_Data_Structure)
 
 
 
