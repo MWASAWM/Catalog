@@ -14,7 +14,7 @@
 
 - [基于React的笔记本](https://github.com/MWASAWM/React_Notes)
 
-- [实习总结](https://github.com/MWASAWM/Intership)
+- [实习总结](https://github.com/MWASAWM/Internship)
 
 ## Others
 
