@@ -6,8 +6,6 @@
 
 - [前端学习记录](https://github.com/MWASAWM/Web_Front_End_Learning)
 
-- [2048PyQt5版](https://github.com/MWASAWM/2048_PyQt5_Version)
-
 - [2048Web版](https://github.com/MWASAWM/2048_Web_Version)
 
 - [IMOOC手机商城主页](https://github.com/MWASAWM/IMOOC_Mobile_Mall_Homepage)
