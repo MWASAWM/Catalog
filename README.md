@@ -18,7 +18,11 @@
 
 ## Others
 
-- [学习资料](https://github.com/MWASAWM/Learning_By_Github)  
+- [各种编程学习资料](<https://github.com/FangWW/Document>)
+
+- [爬虫集合](<https://github.com/facert/awesome-spider>)
+
+- [Awesome](<https://github.com/sindresorhus/awesome>)
 
 - [工具](https://github.com/MWASAWM/Tools)
 
