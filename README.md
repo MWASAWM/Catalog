@@ -24,7 +24,7 @@
 
 - [Awesome](<https://github.com/sindresorhus/awesome>)
 
-- [Markdown转Html](<https://github.com/arturadib/strapdown>) 
+- [Markdown->Html Transfomration](<https://github.com/arturadib/strapdown>) 
 
 - [Win10-UI](https://github.com/jntoo/vue-win10)
 
