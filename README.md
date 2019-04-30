@@ -16,20 +16,4 @@
 
 - [实习总结](https://github.com/MWASAWM/Internship)
 
-## Others
-
-- [各种编程学习资料](<https://github.com/FangWW/Document>)
-
-- [爬虫集合](<https://github.com/facert/awesome-spider>)
-
-- [Awesome](<https://github.com/sindresorhus/awesome>)
-
-- [Markdown->Html Transfomration](<https://github.com/arturadib/strapdown>) 
-
-- [Win10-UI](https://github.com/jntoo/vue-win10)
-
-- [Proxyee Down](https://github.com/proxyee-down-org/proxyee-down)
-
-- [Electron SSR](https://github.com/erguotou520/electron-ssr)  
-
-- [Electron API Demos](https://github.com/electron/electron-api-demos)
+- [宁波市自然资源和规划局首页](https://github.com/MWASAWM/www.nblr.gov.cn)
