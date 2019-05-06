@@ -14,7 +14,7 @@
 
 ### Electron
 
-- [2048Web版](https://github.com/MWASAWM/2048_Web_Version)
+- [Game 2048](https://github.com/MWASAWM/2048_Web_Version)
 
 ### 其他
 
